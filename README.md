@@ -149,7 +149,7 @@ Test avec l'image png :
 
 Je télécharge l'image ensea.png (que j'ai renommée logo par la suite pour voir la différencier lorsque je l'upload avec put sur le serveur) avec la commande ./get localhost ensea.png 1069 .
 
-![](/home/vincent/Documents/tp synthese/tp2/tftp/ensea_dansrep_screen.png)
+![](tftp/ensea_dansrep_screen.png)
 
 ![capture_requete_image_ensea](/home/vincent/Documents/tp synthese/tp2/tftp/capture_requete_image_ensea.png)
 
