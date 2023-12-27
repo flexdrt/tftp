@@ -28,7 +28,7 @@ int main (int argc, char **argv)
 		
 	printf("\n Nom du serveur : %s",servName);	
 	printf("\n Nom du fichier : %s \n",fileName);
-	
+	printf("\n numéro de port : %s \n",port);
 	//Configuration of an addrinfo variable according to the structure
 
 	struct addrinfo hints;
@@ -87,7 +87,7 @@ int main (int argc, char **argv)
 	
 
 // b) packet data et ack 
-// code en contruction 
+
     struct sockaddr src_addr;
 	socklen_t addrlen;
 	int tailleRcv=1000;
