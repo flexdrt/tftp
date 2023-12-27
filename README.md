@@ -151,7 +151,7 @@ Je télécharge l'image ensea.png (que j'ai renommée logo par la suite pour voi
 
 ![](tftp/ensea_dansrep_screen.png)
 
-![capture_requete_image_ensea](capture_requete_image_ensea.png)
+![capture_requete_image_ensea](tftp/capture_requete_image_ensea.png)
 
 
 
@@ -180,7 +180,8 @@ J'ai écrit le code pour ouvrir le fichier et récupérer son contenu.
 
 Je transmet au serveur ma requête d'écriture WRQ. 
 
-Il l'a reçoit bien d'après la capture wireshark![image-20231227020920108](tftp/wireshark wrq recue.png)
+Il l'a reçoit bien d'après la capture wireshark
+![](tftp/wireshark wrq recue.png)
 
 Lorsque je transmet la requête WRQ, il ne contient pas les données du fichier à upload.
 
