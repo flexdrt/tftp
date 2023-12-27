@@ -151,9 +151,9 @@ Je télécharge l'image ensea.png (que j'ai renommée logo par la suite pour voi
 
 ![](tftp/ensea_dansrep_screen.png)
 
-![capture_requete_image_ensea](/home/vincent/Documents/tp synthese/tp2/tftp/capture_requete_image_ensea.png)
+![capture_requete_image_ensea](/tftp/capture_requete_image_ensea.png)
 
-![donnee_delimage_premier_block](/home/vincent/Images/Captures d’écran/donnee_delimage_premier_block.png)
+
 
 
 
