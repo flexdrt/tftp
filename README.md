@@ -149,9 +149,9 @@ Test avec l'image png :
 
 Je télécharge l'image ensea.png (que j'ai renommée logo par la suite pour voir la différencier lorsque je l'upload avec put sur le serveur) avec la commande ./get localhost ensea.png 1069 .
 
-![](tftp/ensea_dansrep_screen.png)
+![](ensea_dansrep_screen.png)
 
-![capture_requete_image_ensea](/tftp/capture_requete_image_ensea.png)
+![capture_requete_image_ensea](capture_requete_image_ensea.png)
 
 
 
@@ -180,7 +180,7 @@ J'ai écrit le code pour ouvrir le fichier et récupérer son contenu.
 
 Je transmet au serveur ma requête d'écriture WRQ. 
 
-Il l'a reçoit bien d'après la capture wireshark![image-20231227020920108](/home/vincent/Documents/tp synthese/tp2/tftp/wireshark wrq recue.png)
+Il l'a reçoit bien d'après la capture wireshark![image-20231227020920108](wireshark wrq recue.png)
 
 Lorsque je transmet la requête WRQ, il ne contient pas les données du fichier à upload.
 
@@ -243,7 +243,7 @@ Seulement, la récupération du code de l'ACK ne fonctionne pas. Ainsi, il m'est
 
 C'est pourquoi dans le dossier du serveur, il se trouve qu'il y a le fichier t_put mais il est vide (0 octet).
 
-![image-20231227022207275](/home/vincent/Documents/tp synthese/tp2/tftp/t_put_vide_screen.png)
+![image-20231227022207275](t_put_vide_screen.png)
 
 #### Conclusion 
 
