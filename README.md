@@ -4,7 +4,7 @@
 
 ***Dans ce TP, j'ai appris à utiliser le sockets IP afin de se connecter à une machine distante. J'ai découvert la norme TFTP qui me permet de lire ou d'écrire des fichiers afin de les télécharger ou de les téléverser. Il m'a fallu utiliser la notion de fichier sous linux pour manipuler les téléchargements.*** 
 
-Les questions 1/2/3 dont incluses dans les questions 4 et 5 
+Les questions 1/2/3 sont incluses dans les questions 4 et 5 
 
 ### 4) Get
 
