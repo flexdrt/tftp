@@ -180,7 +180,7 @@ J'ai écrit le code pour ouvrir le fichier et récupérer son contenu.
 
 Je transmet au serveur ma requête d'écriture WRQ. 
 
-Il l'a reçoit bien d'après la capture wireshark![image-20231227020920108](wireshark wrq recue.png)
+Il l'a reçoit bien d'après la capture wireshark![image-20231227020920108](tftp/wireshark wrq recue.png)
 
 Lorsque je transmet la requête WRQ, il ne contient pas les données du fichier à upload.
 
@@ -243,7 +243,7 @@ Seulement, la récupération du code de l'ACK ne fonctionne pas. Ainsi, il m'est
 
 C'est pourquoi dans le dossier du serveur, il se trouve qu'il y a le fichier t_put mais il est vide (0 octet).
 
-![image-20231227022207275](t_put_vide_screen.png)
+![image-20231227022207275](tftp/t_put_vide_screen.png)
 
 #### Conclusion 
 
